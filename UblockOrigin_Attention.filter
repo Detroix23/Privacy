@@ -49,3 +49,30 @@ www.youtube.com###voice-search-button
 
 ! Site: https://music.youtube.com
 music.youtube.com##ytmusic-guide-section-renderer.ytmusic-guide-renderer.style-scope:nth-of-type(1)
+
+! Site: https://www.google.com
+www.google.com##div.o3j99:nth-of-type(6)
+www.google.com##.qarstb.o3j99
+www.google.com##.XDyW0e
+www.google.com##.lJ9FBc.FPdoLc
+www.google.com##.Ne6nSd.n1xJcf.o3j99
+www.google.com##div.OBMEnb:nth-of-type(2)
+www.google.com##.aajZCb > .lJ9FBc
+www.google.com##.mWcf0e.WzNHm
+www.google.com##.logo
+
+! Tools
+||www.imagetotext.info/web_assets/frontend/img/bg.jpg$image
+||www.imagetotext.info/web_assets/frontend/img/bg.jpg$image
+
+! Informations
+www.merriam-webster.com###definition-right-rail
+www.merriam-webster.com##ul.sub-nav-item-list.d-xl-flex.sidebar-nav.flex-nowrap.flex-md-row.flex-xl-column.nav
+www.ledauphine.com##.noPrint.S_top.section
+www.ledauphine.com##.zoneAside
+www.ledauphine.com##.noPrint.headerTopRight
+||assets.poool.fr/advanced-paywall-frame.html$subdocument
+www.ledauphine.com##.loadingPub.wrapperPub
+! 2023-06-16 https://lecrabeinfo.net
+lecrabeinfo.net##.langouste_abDetected.langouste_no.langouste_singlePost2.langouste_single.langouste
+lecrabeinfo.net##.langouste_abDetected.langouste_no.langouste_singlePost1.langouste_single.langouste
